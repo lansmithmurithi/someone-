@@ -1,0 +1,55 @@
+		
+      body {
+        background: linear-gradient(-45deg, #000000, #000000, #cdc8ff, #000000);
+        font: 14px/1 "Open Sans", helvetica, sans-serif;
+        -webkit-font-smoothing: antialiased;
+         animation: gradient 8s ease infinite;
+       background-size: 400% 400%;
+       margin: 40px;
+      }
+
+      nav .her {
+        width: 100px;
+        display: inline-block;
+
+      }
+       #title {
+           text-align: center;
+           text-shadow: 5px 5px 10px blue;
+           font-size: 7vh;
+       }
+
+       /* Setting width and display
+       type of image */
+       img {
+           display: inline block;
+           width: 100PX;
+           height: 100px;
+       }
+
+       #caption {
+           font-size: 20px;
+           font-family: bold;
+           color: white;
+       }
+
+       div#tribute-data {
+           background-color: rgb(46, 139, 87, 0.25);
+           box-shadow: 20px 20px 20px #98FB98;
+           font-family: Georgia;
+           padding: 25px 25px;
+           margin: 11px;
+           margin-top: 50px;
+       }
+
+       h1.title-TRM {
+           font-size: 35px;
+           color: white;
+           text-align: center;
+           text-shadow: 5px 5px 10px orange;
+       }
+
+       #tribute-link {
+           text-decoration: none;
+           color: black;
+       }
